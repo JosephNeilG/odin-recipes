@@ -1,0 +1,27 @@
+.body {
+    background-color: RGB(20, 20, 20);
+}
+
+.body .main-title {
+    color: rgb(111, 78, 55);
+    font-size: 45px;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+p, ul {
+    color: rgb(238,238,228);
+}
+
+.title, #main-list {
+    color: bisque;
+}
+
+.return {
+    color: rgb(111, 78, 55);
+}
+
+

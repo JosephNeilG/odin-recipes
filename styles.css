@@ -1,0 +1,25 @@
+.body {
+    background-color: RGB(20, 20, 20);
+    text-align: center;
+}
+
+img {
+    width: auto;
+    height: 300px;
+}
+
+.title {
+    color: bisque;
+}
+
+#main-list {
+    color: bisque;
+    display: flex;
+    justify-content: center;
+}
+
+a {
+    color: rgb(238,238,228);
+}
+
+
