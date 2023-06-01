@@ -8,14 +8,21 @@ img {
     height: 300px;
 }
 
-.title {
+.title, .sub-title {
     color: bisque;
+    font-family: "Times New Roman", serif;
+    font-size: 50px;
+}
+
+.sub-title {
+    font-size: 35px;
 }
 
 #main-list {
     color: bisque;
     display: flex;
     justify-content: center;
+    font-family: Tahoma, sans-serif;
 }
 
 a {

@@ -3,8 +3,9 @@
 }
 
 .body .main-title {
-    color: rgb(111, 78, 55);
-    font-size: 45px;
+    color: rgb(161, 115, 82);
+    font-family: "Times New Roman", serif;
+    font-size: 50px;
 }
 
 img {
@@ -14,6 +15,7 @@ img {
 
 p, ul, ol {
     color: rgb(238,238,228);
+    font-family: Tahoma, sans-serif;
 }
 
 h3 {
@@ -21,7 +23,7 @@ h3 {
 }
 
 .return {
-    color: rgb(111, 78, 55);
+    color: rgb(161, 115, 82);
 }
 
 
