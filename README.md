@@ -3,4 +3,4 @@
 <p>This project by The Odin Project Foundations Course
 helps me assess my current knowledge about HTML and CSS.</p>
 
-<p>I am currently at BLock and Inline Section of the Foundations Course</p>
+<p>I am currently at Block and Inline Section of the Foundations Course</p>
