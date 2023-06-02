@@ -11,6 +11,8 @@
 img {
     width: 500px;
     height: auto;
+    background-color: rgb(161, 115, 82);
+    padding: 5px;
 }
 
 p, ul {
@@ -23,7 +25,20 @@ p, ul {
 }
 
 .return {
-    color: rgb(161, 115, 82);
+    color: whitesmoke;
+    background-color: rgb(129, 120, 120);
+    padding: 10px 20px;
+    margin: 20px;
+    display: inline-block;
+    border-radius: 5px;
+    border: none;
+    text-decoration: none;
+
+}
+
+.return:hover {
+    background-color: rgb(85, 80, 80);
+    border: none;
 }
 
 

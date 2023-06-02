@@ -11,6 +11,8 @@
 img {
     width: 500px;
     height: auto;
+    background-color:rgb(161, 115, 82);
+    padding: 5px;
 }
 
 p, ul, ol {
@@ -23,7 +25,18 @@ h3 {
 }
 
 .return {
-    color: rgb(161, 115, 82);
+    color: rgb(238,238,228);
+    background-color: rgb(129, 120, 120);
+    padding: 10px 20px;
+    margin: 20px;
+    display: inline-block;
+    border-radius: 5px;
+    text-decoration: none;
+
+}
+
+.return:hover {
+    background-color: rgb(85, 80, 80);
 }
 
 
